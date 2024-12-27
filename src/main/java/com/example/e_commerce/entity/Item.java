@@ -1,4 +1,4 @@
-package com.example.e_commerce.data;
+package com.example.e_commerce.entity;
 import jakarta.persistence.*;
 
 import jakarta.validation.constraints.NotBlank;

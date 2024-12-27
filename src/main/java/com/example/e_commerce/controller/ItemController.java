@@ -1,6 +1,6 @@
 package com.example.e_commerce.controller;
 
-import com.example.e_commerce.data.Item;
+import com.example.e_commerce.entity.Item;
 import com.example.e_commerce.service.ItemService;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
