@@ -3,7 +3,6 @@ package com.example.e_commerce.service;
 import com.example.e_commerce.entity.Discount;
 import com.example.e_commerce.repository.DiscountRepository;
 import org.springframework.stereotype.Service;
-
 import java.util.Optional;
 
 @Service
